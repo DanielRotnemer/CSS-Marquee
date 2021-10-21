@@ -28,7 +28,7 @@ body {
 .marquee span {
     display: inline-block;
     padding-left: 100%;
-    font-family: 'Poppins', sans-serif;
+    font-family: 'poppinsbold';
     text-align: center;
     -webkit-text-stroke: 1px #43e486;
     white-space: nowrap;
